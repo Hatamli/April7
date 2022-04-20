@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\April7\April7\April7\bin\Debug\net5.0\April7.exe
+C:\Users\LENOVO\Desktop\April7\April7\April7\bin\Debug\net5.0\April7.deps.json
+C:\Users\LENOVO\Desktop\April7\April7\April7\bin\Debug\net5.0\April7.runtimeconfig.json
+C:\Users\LENOVO\Desktop\April7\April7\April7\bin\Debug\net5.0\April7.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\April7\April7\April7\bin\Debug\net5.0\April7.dll
+C:\Users\LENOVO\Desktop\April7\April7\April7\bin\Debug\net5.0\ref\April7.dll
+C:\Users\LENOVO\Desktop\April7\April7\April7\bin\Debug\net5.0\April7.pdb
+C:\Users\LENOVO\Desktop\April7\April7\April7\obj\Debug\net5.0\April7.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\April7\April7\April7\obj\Debug\net5.0\April7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\April7\April7\April7\obj\Debug\net5.0\April7.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\April7\April7\April7\obj\Debug\net5.0\April7.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\April7\April7\April7\obj\Debug\net5.0\April7.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\April7\April7\April7\obj\Debug\net5.0\April7.dll
+C:\Users\LENOVO\Desktop\April7\April7\April7\obj\Debug\net5.0\ref\April7.dll
+C:\Users\LENOVO\Desktop\April7\April7\April7\obj\Debug\net5.0\April7.pdb
+C:\Users\LENOVO\Desktop\April7\April7\April7\obj\Debug\net5.0\April7.genruntimeconfig.cache
